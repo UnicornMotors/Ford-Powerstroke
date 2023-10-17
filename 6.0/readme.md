@@ -4,7 +4,9 @@ https://www.google.com/search?q=ford+6.0+diesel
 
 https://en.wikipedia.org/wiki/Navistar_VT_engine#VT365
 
-spec:
-- 
+# Review:
+- [The Truth About the 6.0L Powerstroke (And Everything Wrong With It)](https://youtu.be/RMibjWJNzMs)
+
+# spec:
 - Compression.PSI: https://www.ford-trucks.com/forums/646579-6-0-compression.html
 - Compression.Ratio: https://www.google.com/search?q=ford+6.0+powerstroke+compression+ratio
