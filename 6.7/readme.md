@@ -5,3 +5,5 @@ https://www.xtremediesel.com/blog/2021/09/01/what-is-a-cp4-pump-and-why-does-it-
 https://www.dieselworldmag.com/diesel-technology/why-the-6-7l-power-stroke-is-so-great/
 
 [Everything Wrong with the 6.7L Powerstroke](https://youtu.be/yzVD-KE3l_Q)
+
+[What to look for when buying a USED FORD 6.7 DIESEL | WATCH THIS & purchase SMARTLY!! |](https://youtu.be/9YE1WHhzLY4)
